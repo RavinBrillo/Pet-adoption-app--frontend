@@ -1,0 +1,25 @@
+{
+    "news_slides": [
+        {
+            "img_src": "img/charlie-dog.jpg",
+            "title": "Adopt a Loving Companion Today",
+            "description": "Meet Charlie! Charlie is a playful and affectionate dog looking for a family to call his own. He’s great with kids, loves cuddles, and has a lot of energy for outdoor activities. If you think Charlie would be the perfect addition to your home, visit our adoption page to learn more!",
+            "img_src2": "img/charlie-finding-home.avif",
+            "description2": "Charlie’s found a temporary foster home and is settling in wonderfully. His playful and friendly nature continues to win hearts every day."
+        },
+        {
+            "img_src": "img/labmix-dog.jpeg",
+            "title": "Another Happy Ending",
+            "description": "From Shelter to Forever Home: Max, a sweet lab mix, had been waiting for a home in our shelter for months. But thanks to a wonderful family who fell in love with him, Max is now living his best life. Read his full success story and see how adoption can truly change lives. You could be next in line to make a difference!",
+            "img_src2": "img/labmix-finding-home.webp",
+            "description2": "Max is now fully adjusted in his new home and is enjoying daily walks, playing with his new family, and living the good life!"
+        },
+        {
+            "img_src": "img/fostering-a-pet.jpg",
+            "title": "Become a Foster Hero",
+            "description": "Give Love, Get Love: Fostering is a great way to help pets in need while waiting for their forever home. Foster parents provide temporary care, love, and attention, and in turn, receive the joy of knowing they've helped a pet find its way. Learn how fostering a pet can fit into your lifestyle and help animals in need.",
+            "img_src2": "img/foster-requests.jpg",
+            "description2": "We’ve received numerous heartwarming updates from our foster families about the pets’ progress. Every foster moment counts towards a brighter future for these animals."
+        }
+    ]
+}

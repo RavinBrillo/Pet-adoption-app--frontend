@@ -1,0 +1,38 @@
+{
+    "pet_details": [
+        {
+            "img_src": "img/How-Tall-Are-Golden-Retrievers.webp",
+            "alt_text": "Golden Retriever Image",
+            "name": "Buddy",
+            "location": "Happy Paws Shelter (5 miles)",
+            "description": "Buddy is a friendly Golden Retriever who loves playing fetch and meeting new people. He's looking for a home where he can get plenty of exercise and love.",
+            "page": "buddy.html"
+        },
+        {
+            "img_src": "img/Brown-tabby-cat-that-curls-up-outdoors_viper-zero_Shutterstock-1.jpg",
+            "alt_text": "Tabby Cat Image",
+            "name": "Whiskers",
+            "location": "Feline Haven (8 miles)",
+            "description": "Whiskers is a calm and curious tabby cat. She enjoys sunbathing and gentle cuddles. Perfect for a family or a single pet parent looking for a relaxed companion.",
+            "page": "whiskers.html"
+        },
+        {
+            "img_src": "img/download.jpeg",
+            "alt_text": "Beagle Image",
+            "name": "Scout",
+            "location": "Puppy Pal Rescue (3 miles)",
+            "description": "Scout is a playful Beagle who loves exploring the outdoors. He’s ready to join a family who loves adventure and activity.",
+            "page": "scout.html"
+        },
+        {
+            "img_src": "img/image-85281-800.jpg",
+            "alt_text": "Parrot Image",
+            "name": "Polly",
+            "location": "Wings Shelter (7 miles)",
+            "description": "Polly is a vibrant parrot with a cheerful personality. She loves mimicking sounds and would thrive in a home that appreciates her playful nature.",
+            "page": "polly.html"
+
+        }
+    ]
+}
+
